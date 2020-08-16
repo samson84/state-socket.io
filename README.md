@@ -17,12 +17,16 @@ the same.
 
 Package is under development, it is not ready for public usage yet.
 
-v1.0.0
+v1.0.0 - 1st public release
 * [ ] Basic functionality
 * [ ] Integration tests through socket.io
 * [ ] support custom event names
 * [ ] remove data if nobody in the group
+* [ ] documentation (usage)
+* [ ] contribution / development docs
 
 v1.1.0
 * [ ] Abstract the store adapter
 * [ ] Support multi threading / multi instance
+* [ ] Add a working server out of the box
+  * [ ] with configurable namespaces
