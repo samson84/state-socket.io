@@ -17,6 +17,11 @@ the same.
 
 Package is under development, it is not ready for public usage yet.
 
+v1.0.0
 * [ ] Basic functionality
 * [ ] Integration tests through socket.io
-* [ ] Support multi threading
+* [ ] support custom event names
+
+v1.1.0
+* [ ] Abstract the store adapter
+* [ ] Support multi threading / multi instance
