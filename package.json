@@ -4,12 +4,20 @@
   "description": "A simple state syncing middleware for Socket.io.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/jest",
+    "test-watch": "npm test -- --watch"
   },
-  "keywords": [],
+  "keywords": [
+    "socket.io",
+    "state",
+    "sync"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "socket.io": "^2.3.0"
+    "jest": "^26.4.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
   }
 }
