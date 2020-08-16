@@ -21,6 +21,7 @@ v1.0.0
 * [ ] Basic functionality
 * [ ] Integration tests through socket.io
 * [ ] support custom event names
+* [ ] remove data if nobody in the group
 
 v1.1.0
 * [ ] Abstract the store adapter
