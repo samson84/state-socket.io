@@ -15,4 +15,8 @@ the same.
 
 ## Roadmap
 
-* Package is under development, it is not ready for public usage.
+Package is under development, it is not ready for public usage yet.
+
+* [ ] Basic functionality
+* [ ] Integration tests through socket.io
+* [ ] Support multi threading
