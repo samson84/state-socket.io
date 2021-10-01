@@ -22,6 +22,7 @@ v1.0.0 - 1st public release
 * [ ] Integration tests through socket.io
 * [ ] Working unit tests
 * [x] working examples
+* [ ] nice examples
 * [ ] rollup / packaging
 * [ ] documentation (usage)
 * [ ] contribution / development docs

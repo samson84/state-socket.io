@@ -70,8 +70,6 @@ socket.on('connect', () => {
       { updateId, newState: { users: newUsers } }, 
       (error, data) => {
         console.log('udpate response', error, data)
-        updateId = data.updateId
-        state = data.state
       }
     )
     nameInput.value = ''
