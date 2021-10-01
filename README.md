@@ -20,6 +20,7 @@ Package is under development, it is not ready for public usage yet.
 v1.0.0 - 1st public release
 * [x] Basic functionality (update, get, notify)
 * [ ] Integration tests through socket.io
+* [ ] Working unit tests
 * [x] working examples
 * [ ] rollup / packaging
 * [ ] documentation (usage)
