@@ -18,16 +18,18 @@ the same.
 Package is under development, it is not ready for public usage yet.
 
 v1.0.0 - 1st public release
-* [ ] Basic functionality
+* [x] Basic functionality (update, get, notify)
 * [ ] Integration tests through socket.io
-* [ ] working examples
-* [ ] remove data if nobody in the room
+* [x] working examples
 * [ ] rollup / packaging
 * [ ] documentation (usage)
 * [ ] contribution / development docs
 
-v1.1.0
+next
 * [ ] Abstract the store adapter
+* [ ] room support
+* [ ] remove data if nobody in the room
+* [ ] Update history, rollback
 * [ ] Inroduce Typescript
 * [ ] Remove data based on timestamp
 * [ ] support custom event names
